@@ -37,7 +37,6 @@ foreach ($setting as $value) {
         if(!isset($image_url)){
         $image_url = $setting["base"]["imgurl"];
         $alt=$setting["base"]["alt"];
-        echo "repeat";
         }
     }
 }

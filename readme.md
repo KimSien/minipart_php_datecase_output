@@ -28,4 +28,23 @@ dateで指定した日付までが期限
 
 ```
 
+## how to
+
+設置ディレクトリーに
+
+```
+
+mini.php
+settingdata.json
+
+//呼び出し側からは
+include(dirname(__FILE__)."/mini.php");
+
+```
+
+を設置する。
+必要に応じてプログラムを書き換えてください。
+
+
+
 
