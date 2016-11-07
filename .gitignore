@@ -1,7 +1,6 @@
 ## ------------------------------------
 ## image source
 ##
-public/img/
 *.psd
 *.png
 *.jpeg
